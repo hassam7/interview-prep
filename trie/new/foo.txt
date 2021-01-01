@@ -1,0 +1,1507 @@
+Checking:  2
+ 2  is Valid
+ Checking:  5
+  5  is Valid
+  Checking:  5
+   5  is Valid
+   Checking:  2
+    2  is Valid
+    Checking:  5
+     5  is Valid
+     Checking:  5
+      5  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  1
+         1  is Valid
+         Checking:  3
+          3  is Valid
+          Checking:  5
+           5  is Valid
+         Checking:  35
+          35  is Valid
+        Checking:  13
+         13  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  135
+         135  is Valid
+       Checking:  11
+        11  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  113
+        113  is Valid
+        Checking:  5
+         5  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  111
+       111  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+     Checking:  51
+      51  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  113
+       113  is Valid
+       Checking:  5
+        5  is Valid
+     Checking:  511
+     Discarding:  511
+    Checking:  55
+     55  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  113
+       113  is Valid
+       Checking:  5
+        5  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  111
+      111  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+    Checking:  551
+    Discarding:  551
+   Checking:  25
+    25  is Valid
+    Checking:  5
+     5  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  113
+       113  is Valid
+       Checking:  5
+        5  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  111
+      111  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+    Checking:  51
+     51  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  511
+    Discarding:  511
+   Checking:  255
+    255  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+  Checking:  52
+   52  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  5
+     5  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  113
+       113  is Valid
+       Checking:  5
+        5  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  111
+      111  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+    Checking:  51
+     51  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  511
+    Discarding:  511
+   Checking:  55
+    55  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  551
+   Discarding:  551
+  Checking:  525
+  Discarding:  525
+ Checking:  55
+  55  is Valid
+  Checking:  2
+   2  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  5
+     5  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  113
+       113  is Valid
+       Checking:  5
+        5  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  111
+      111  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+    Checking:  51
+     51  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  511
+    Discarding:  511
+   Checking:  55
+    55  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  551
+   Discarding:  551
+  Checking:  25
+   25  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  51
+    51  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  511
+   Discarding:  511
+  Checking:  255
+   255  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  111
+    111  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+ Checking:  552
+ Discarding:  552
+Checking:  25
+ 25  is Valid
+ Checking:  5
+  5  is Valid
+  Checking:  2
+   2  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  5
+     5  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  1
+        1  is Valid
+        Checking:  3
+         3  is Valid
+         Checking:  5
+          5  is Valid
+        Checking:  35
+         35  is Valid
+       Checking:  13
+        13  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  135
+        135  is Valid
+      Checking:  11
+       11  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  113
+       113  is Valid
+       Checking:  5
+        5  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  111
+      111  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+    Checking:  51
+     51  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  511
+    Discarding:  511
+   Checking:  55
+    55  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  551
+   Discarding:  551
+  Checking:  25
+   25  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  51
+    51  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  511
+   Discarding:  511
+  Checking:  255
+   255  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  111
+    111  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+ Checking:  52
+  52  is Valid
+  Checking:  5
+   5  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  51
+    51  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  511
+   Discarding:  511
+  Checking:  55
+   55  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  111
+    111  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+  Checking:  551
+  Discarding:  551
+ Checking:  525
+ Discarding:  525
+Checking:  255
+ 255  is Valid
+ Checking:  2
+  2  is Valid
+  Checking:  5
+   5  is Valid
+   Checking:  5
+    5  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  1
+       1  is Valid
+       Checking:  3
+        3  is Valid
+        Checking:  5
+         5  is Valid
+       Checking:  35
+        35  is Valid
+      Checking:  13
+       13  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  135
+       135  is Valid
+     Checking:  11
+      11  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  113
+      113  is Valid
+      Checking:  5
+       5  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  111
+     111  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+   Checking:  51
+    51  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  511
+   Discarding:  511
+  Checking:  55
+   55  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  111
+    111  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+  Checking:  551
+  Discarding:  551
+ Checking:  25
+  25  is Valid
+  Checking:  5
+   5  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  1
+      1  is Valid
+      Checking:  3
+       3  is Valid
+       Checking:  5
+        5  is Valid
+      Checking:  35
+       35  is Valid
+     Checking:  13
+      13  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  135
+      135  is Valid
+    Checking:  11
+     11  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  113
+     113  is Valid
+     Checking:  5
+      5  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  111
+    111  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+  Checking:  51
+   51  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+   Checking:  113
+    113  is Valid
+    Checking:  5
+     5  is Valid
+  Checking:  511
+  Discarding:  511
+ Checking:  255
+  255  is Valid
+  Checking:  1
+   1  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  1
+     1  is Valid
+     Checking:  3
+      3  is Valid
+      Checking:  5
+       5  is Valid
+     Checking:  35
+      35  is Valid
+    Checking:  13
+     13  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  135
+     135  is Valid
+   Checking:  11
+    11  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+   Checking:  113
+    113  is Valid
+    Checking:  5
+     5  is Valid
+  Checking:  11
+   11  is Valid
+   Checking:  1
+    1  is Valid
+    Checking:  3
+     3  is Valid
+     Checking:  5
+      5  is Valid
+    Checking:  35
+     35  is Valid
+   Checking:  13
+    13  is Valid
+    Checking:  5
+     5  is Valid
+   Checking:  135
+    135  is Valid
+     Found:  [ '255', '255', '11', '135' ]
+  Checking:  111
+   111  is Valid
+   Checking:  3
+    3  is Valid
+    Checking:  5
+     5  is Valid
+   Checking:  35
+    35  is Valid
+     Found:  [ '255', '255', '111', '35' ]
+[ [ '255', '255', '11', '135' ], [ '255', '255', '111', '35' ] ]
